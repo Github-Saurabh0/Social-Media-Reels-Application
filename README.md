@@ -1,5 +1,5 @@
 
-# Social Media Reels Application  
+# Tiktok Social Media Reels Application  
 
 > A modern Instagram Reels–style application with **Java Spring Boot backend**, **CRUD APIs**, and an **AI-modern UI theme** (React/Tailwind or Android).  
 
